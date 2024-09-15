@@ -1,6 +1,5 @@
 # VNR_Result_Retriever
 
-### Description:
 VNR Result Retriever is a Python-based automation tool designed to streamline the process of collecting and storing student result screenshots from the VNRVJIET results portal. The tool automatically captures screenshots of student results based on their roll numbers, consolidates the images into a single PDF, and provides easy access to the final output.
 
 ### Key Features:
