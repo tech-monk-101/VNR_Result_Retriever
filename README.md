@@ -7,7 +7,7 @@ VNR Result Retriever is a Python-based automation tool designed to streamline th
 - Converts captured screenshots into a **PDF document** for easy sharing and storage.
 - Supports adding roll numbers in **ranges (both numeric and alphanumeric)** and miscellaneous formats, with exclusion options.
 - Allows users to choose the **destination folder** to save screenshots and PDFs.
-- Adjustable **delay time** to accommodate slower computers or internet connections.
+- Adjustable **delay time** to accommodate slower computers or internet connections (PRO TIP : Use floating point delay [eg - 0.6 sec] for faster automation).
 - **Fail-safe Mechanism**: Stops the process if the mouse pointer is moved to the top-left corner of the screen, ensuring user control at all times.
 
 ### Usage Instructions:
