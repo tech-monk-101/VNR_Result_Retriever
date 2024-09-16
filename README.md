@@ -36,6 +36,14 @@ VNR Result Retriever is a Python-based automation tool designed to streamline th
 ### How to Run:
 Download the EXE file from the releases section, and double click to run it.
 
+### Future Scope (RUST VERSION):
+
+VNR Result Retriever (Rust) - Alpha Pre-release
+- The RUST version of this project is available in the releases section as an alpha pre-release.
+- This release offers a simplified feature set, allowing you to automatically capture student result screenshots from the VNRVJIET portal based on a single range of roll numbers.
+- While PDF generation and advanced roll number handling (misc rolls, exclusion list, multiple ranges) are not yet available, this version provides a very fast and lightweight solution for batch result retrieval, making it 70% efficient.
+- Stay tuned for future updates with more features!
+
 ---
 
-This tool is specifically designed for students of VNRVJIET but can be adapted to similar web-based result portals with modifications.
+This tool is specifically designed for students & faculty of VNRVJIET but can be adapted to similar web-based result portals with modifications.
